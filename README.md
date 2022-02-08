@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Computer engineering
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me: 
-      mail:elietin24@live.com
-      linkedin.com/in/eli-etin-9975451b1
+-      mail:elietin24@live.com
+-      linkedin.com/in/eli-etin-9975451b1
               
 
 <!---
