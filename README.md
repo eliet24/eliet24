@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @eliet24
+- 👋 Hi, I’m @eliet24 -  BSc in Computer Engineering
 - 👀 I’m interested in computer engineering, computer science especially machine learning
-- 🌱 I’m currently learning Computer engineering
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me: 
 -      mail:elietin24@live.com
