@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @eliet24 -  BSc in Computer Engineering
-- 👀 I’m interested in computer engineering, computer science especially Embedded Programming and Machine Learning.
-- 💞️ I’m looking to collaborate on cool projects
+- 👋 Hi, my name is Eli and I'm a Computer Engineer with a strong passion for software development.
+- 👀 I’m interested in Full Stack Development, Embedded Programming, and Machine Learning — especially using Python and C/C++
+- 💞️ I’m looking to collaborate on exciting open-source projects and other initiatives that have the potential to make a small but meaningful difference in the world
 - 📫 How to reach me: 
 -      mail:elietin24@live.com
 -      linkedin.com/in/eli-etin-9975451b1
